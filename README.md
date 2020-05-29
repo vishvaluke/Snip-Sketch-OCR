@@ -1,9 +1,4 @@
----
-
-
----
-
-<h1 id="what-is-snip--sketch-ocr">What is Snip &amp; Sketch OCR?</h1>
+<h1 id="what-is-snip-&-sketch-ocr">What is Snip &amp; Sketch OCR?</h1>
 <ul>
 <li>Snip and Sketch OCR is a python based tool that lets user to snip an image or content and extract all the acceptable characters from it.</li>
 <li>Snip &amp; Sketch OCR incorporates both Snip &amp; Sketch(Microsoft) and Tesseract OCR (Google) functionalities to allow users retrieve certain information from virtually any kind of content without downloading the whole file.</li>
