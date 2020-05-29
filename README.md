@@ -21,4 +21,3 @@ Simple image optimizing algorithm, bash based output deliver window and only sho
 <li>Based on selected python script you will prompted with GUI or bash interfaces.</li>
 </ol>
 <p><strong>Disclaimer:</strong> In Better Results and GUI python script all the extracted content will always be saved in same notepad (copied.txt).</p>
-
