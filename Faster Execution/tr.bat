@@ -1,6 +1,7 @@
+# Set Correct directory of Snip & Sketch OCR 
 @ECHO OFF
 cd /d d:
-cd D:\Python Projects\Copy Paste OCR
+cd /"Snip & Sketch OCR"
 echo %cd%
 python cpocr.py
 PAUSE
